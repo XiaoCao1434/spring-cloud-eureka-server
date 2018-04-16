@@ -1,4 +1,4 @@
-package com.beini.springcloudeureka;
+package com.beini.eureka_server;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

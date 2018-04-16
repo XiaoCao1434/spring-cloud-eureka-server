@@ -4,13 +4,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.beini</groupId>
-	<artifactId>spring-cloud-eureka-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>beini-eureka-server</artifactId>
+	<version>0.1</version>
 	<packaging>jar</packaging>
-
-	<name>spring-cloud-eureka-server</name>
-	<description>spring-cloud-eureka-server</description>
-
+	<name>beini-eureka-server</name>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
@@ -56,7 +53,6 @@
 			<optional>true</optional>
 		</dependency>
 	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
